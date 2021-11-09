@@ -1,0 +1,15 @@
+* {
+    font-family: 'Bellota text', cursive ;
+    color: #151616;
+    text-decoration: none;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas:
+       "h h h"
+       "m m s"
+       "c c c"
+       "f f f";
+}

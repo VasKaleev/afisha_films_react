@@ -1,0 +1,31 @@
+.Main {
+    border: 1px solid #a2a2a2;
+    padding: 10px;
+    margin: 5px;
+    background-color: #f6f6f6;
+}
+.Main {
+    grid-area: m;
+}
+
+section {
+    padding: 10px;
+    margin: 5px;
+    color: #2F73B6;
+}
+.leftimg {
+    float:left;
+    margin: 2%;
+    border:2px solid #2F73B6;
+    width: 10%;
+}
+#raiting{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(65, 66, 143);
+  }
+p {
+    color:#0d4074;
+}

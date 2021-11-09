@@ -1,0 +1,31 @@
+.Slider-site-slider {
+    border: 1px solid #a2a2a2;
+    padding: 10px;
+    margin: 5px;
+    background-color: #f6f6f6;
+} 
+.Slider-site-slider {
+    grid-area: c;
+}
+.Slider-site-slider p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+.rec.rec-arrow {
+    border-radius: 0;
+}
+
+.rec.rec-arrow:hover {
+    border-radius: 50%;
+}
+
+.rec.rec-arrow:disabled {
+    visibility: hidden;
+}
+
+.rec-carousel-item:focus {
+    outline: none;
+    box-shadow: inset 0 0 1px 1px lightgrey;
+} 

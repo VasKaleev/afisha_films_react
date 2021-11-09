@@ -1,0 +1,18 @@
+.Header-site-header {
+    font-family: "Oswald",sans-serif;
+    border: 1px solid #a2a2a2;
+    padding: 10px;
+    margin: 5px;
+    background-color: #f6f6f8;
+    font-weight: 900;
+    color: rgb(65, 66, 143);
+}
+.Header-site-header {
+    grid-area: h;
+}
+h1, h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    color: rgb(65, 66, 143);
+}
